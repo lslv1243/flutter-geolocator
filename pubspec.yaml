@@ -17,7 +17,7 @@ dependencies:
   location_permissions:
     git: 
       url: git@github.com:lslv1243/flutter-permission-plugins.git
-      ref: cf73398f51e76a4d5cc62b0570e0dc6460cd0a94
+      ref: 512593f9d8bed672b8a20bc18961d23094fe141b
       path: packages/location_permissions
   vector_math: ^2.0.8
 
