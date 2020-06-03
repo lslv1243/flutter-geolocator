@@ -14,7 +14,11 @@ dependencies:
 
   equatable: ^1.0.3
   google_api_availability: ^2.0.4
-  location_permissions: ^2.0.4+1
+  location_permissions:
+    git: 
+      url: git@github.com:lslv1243/flutter-permission-plugins.git
+      ref: cf73398f51e76a4d5cc62b0570e0dc6460cd0a94
+      path: packages/location_permissions
   vector_math: ^2.0.8
 
 dev_dependencies:
